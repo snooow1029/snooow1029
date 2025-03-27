@@ -2,10 +2,6 @@
 
 A dedicated **EE junior explorer** studying at **National Taiwan University**.
 
-<!--
-**snooow1029/snooow1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 📖 I'm currently learning the skills of **Machine Learning** and **Deep Learning** foundations.  
 🤖 My current undergraduate research lab: **Speech Processing and Machine Learning Lab**  
 📝 Previously interned in the **Music Information Retrieval Lab** led by Dr. **Li Su** in IIS, **Academia Sinica** for 2 months.
