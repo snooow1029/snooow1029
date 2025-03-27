@@ -1,16 +1,31 @@
-## Hi there 👋
+## This is Jia-Kai Dong's GitHub👋
+
+A dedicated **EE junior explorer** studying at **National Taiwan University**.
 
 <!--
 **snooow1029/snooow1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 I'm currently learning the skills of **Machine Learning** and **Deep Learning** foundations.  
+🤖 My current undergraduate research lab: **Speech Processing and Machine Learning Lab**  
+📝 Previously interned in the **Music Information Retrieval Lab** led by Dr. **Li Su** in IIS, **Academia Sinica** for 2 months.
+
+---
+
+### 📧 Contact:
+- **Email:** b11901067@ntu.edu.tw
+- **IG** https://www.instagram.com/j.k.snowling/
+
+---
+
+### Languages and Tools:
+- **Programming Languages:** Python, C++, MATLAB
+- **Libraries/Frameworks:** PyTorch, TensorFlow, Scikit-Learn, Numpy, Pandas
+- **Tools/Technologies:** Docker, Linux,  Anaconda
+- **Web Development:** HTML5, CSS3
+
+---
+
+🌱 I’m always open to collaborating on machine learning projects, especially in speech processing, music related or AI-driven solutions!
+
+
