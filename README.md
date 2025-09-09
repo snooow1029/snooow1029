@@ -1,11 +1,11 @@
 ## This is Jia-Kai Dong's GitHub👋
 
-A dedicated **junior in Electrical Engineering** at **National Taiwan University**, passionate about exploring the frontiers of AI.
+A dedicated **junior in Electrical Engineering** at **National Taiwan University**, passionate about exploring the frontiers of AI.  
 
-📖 Currently building strong foundations in **Machine Learning** and **Deep Learning**.
-🤖 Conducting undergraduate research at the **Speech Processing and Machine Learning Lab**.
-📝 Formerly a research intern at the **Music Information Retrieval Lab** led by Dr. Li Su at IIS, Academia Sinica (2 months).
-💼 Since July 2025, serving as an intern with the **LLM Agent Team at Delta Electronics**.
+📖 Currently building strong foundations in **Machine Learning** and **Deep Learning**.  
+🤖 Conducting undergraduate research at the **Speech Processing and Machine Learning Lab**.  
+📝 Formerly a research intern at the **Music Information Retrieval Lab** led by Dr. Li Su at IIS, Academia Sinica (2 months).  
+💼 Since July 2025, serving as an intern with the **LLM Agent Team at Delta Electronics**.  
 
 ---
 
