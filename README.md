@@ -38,6 +38,7 @@ A dedicated **junior in Electrical Engineering** at **National Taiwan University
 - [DLCV Fall 2025 HW1](https://github.com/DLCV-Fall-2025/dlcv-fall-2025-hw1-snooow1029)
 - [DLCV Fall 2025 HW2](https://github.com/DLCV-Fall-2025/dlcv-fall-2025-hw2-snooow1029)
 - [DLCV Fall 2025 HW3](https://github.com/DLCV-Fall-2025/dlcv-fall-2025-hw3-snooow1029)
+- [DLCV Fall 2025 HW4](https://github.com/DLCV-Fall-2025/dlcv-fall-2025-hw4-snooow1029)
 ---
 🌱 I’m always open to collaborating on machine learning projects, especially in speech processing, music related or AI-driven solutions!
 
